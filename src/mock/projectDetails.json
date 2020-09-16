@@ -1,0 +1,64 @@
+{
+    "apps": [
+        {
+            "appName": "autopay",
+            "status": "UP",
+            "version": "1.0.0.RELEASE",
+            "properties": {
+                "toggle": true,
+                "prop1": "value",
+                "prop2": "value"
+            }
+        },
+        {
+            "appName": "pastdue",
+            "status": "UP",
+            "version": "1.0.0.RELEASE",
+            "properties": {
+                "toggle": true,
+                "prop1": "value",
+                "prop2": "value"
+            }
+        },
+        {
+            "appName": "eligibility",
+            "status": "UP",
+            "version": "1.0.0.RELEASE",
+            "properties": {
+                "toggle": true,
+                "prop1": "value",
+                "prop2": "value"
+            }
+        },
+        {
+            "appName": "autopay",
+            "status": "UP",
+            "version": "1.0.0.RELEASE",
+            "properties": {
+                "toggle": true,
+                "prop1": "value",
+                "prop2": "value"
+            }
+        },
+        {
+            "appName": "pastdue",
+            "status": "UP",
+            "version": "1.0.0.RELEASE",
+            "properties": {
+                "toggle": true,
+                "prop1": "value",
+                "prop2": "value"
+            }
+        },
+        {
+            "appName": "eligibility",
+            "status": "UP",
+            "version": "1.0.0.RELEASE",
+            "properties": {
+                "toggle": true,
+                "prop1": "value",
+                "prop2": "value"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+.ProjectCard {
+    width: 300px;
+    margin: 20px;
+    height: auto;
+}
+
+.cardheader {
+    display: flex;
+    flex-direction: row;
+}
+
+.cardText {
+    font-size: 13px;
+    margin: 2px;
+}
+
+.cardButton {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.cardTextValue {
+    word-break: break-all;
+    font-weight: 500;
+}
+
+.cardHr {
+    width: 100%;
+    margin: 1rem 0rem;
+    border-bottom: 1px solid #f5f5f5;
+}
+.cardInputs {
+    margin-top: 5px;
+}
+
+.cardBodyText {
+    font-size: 13px;
+    margin: 15px 0px !important;
+}

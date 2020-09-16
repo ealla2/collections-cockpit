@@ -1,0 +1,17 @@
+.circular-progress {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 5rem;
+}
+
+.rojectcards {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+}
+.cardItem {
+    height: auto;
+    width: 300px;
+    margin: 1rem !important;
+}
